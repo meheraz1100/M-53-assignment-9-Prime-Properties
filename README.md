@@ -1,5 +1,7 @@
 ## How to run this Project : 
-'''git clone https://github.com/meheraz1100/M-53-assignment-9-Prime-Properties.git'''
+```bash
+git clone https://github.com/meheraz1100/M-53-assignment-9-Prime-Properties.git
+```
 
 
 ## Web Site Name : Prime Properties
