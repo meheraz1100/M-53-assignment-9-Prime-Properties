@@ -2,6 +2,16 @@
 ```bash
 git clone https://github.com/meheraz1100/M-53-assignment-9-Prime-Properties.git
 ```
+Then Open this Project in Your Code Editor
+
+Then Copy This Command and paste it in project root Directory
+```bash
+npm install
+```
+To run this Project : 
+```bash
+npm run dev
+```
 
 
 ## Web Site Name : Prime Properties
